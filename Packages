@@ -1,23 +1,3 @@
-Package: com.yuosaf01.addsource
-Version: 2.3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/addsource_2.3.deb
-Size: 41700
-MD5sum: d7ecfdd10ddb43aef7585a44fc6171a0
-SHA1: 6a8b97545950a49364f16c3aca321e45efdfba7f
-SHA256: 4c4bfb02ff2bbe35e4c68024ddf1fae4ca597cce3fc7d4f9b6bd2b0a745b3aa3
-Section: Tweaks
-Description: Add the copied URL to Cydia sources automatically
-Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceDp
-Installed-Size: 563
-Name: addsource
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: yuosaf01
-
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.13-2
 Architecture: iphoneos-arm
