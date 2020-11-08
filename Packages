@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
-Replaces:
+Replaces: 
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.13-2_iphoneos-arm.deb
 Size: 682110
 MD5sum: c768fba2f92615fc74df16bca183ec38
@@ -14,18 +14,18 @@ Section: Tweaks
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Homepage:
-Icon:
+Homepage: 
+Icon: 
 Name: AppStore++
 Priority: optional
-dev:
+dev: 
 
 Package: com.deadtweak.com
 Version: 1.7.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler
-Replaces:
+Replaces: 
 Filename: ./debs/com.deadtweak.com_1.7.1_iphoneos-arm-post18142.deb
 Size: 5085850
 MD5sum: f6eb394ca1948f7807149633df791d2d
@@ -55,6 +55,38 @@ Installed-Size: 3508
 Name: Apps Hacks
 Tag: cydia::commercial
 
+Package: com.lunogroup.Legizmo
+Version: 1.0-20SA261730i
+Architecture: iphoneos-arm
+Maintainer: lunotech11
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.lunogroup.legizmo_1.0-20SA261730i_iphoneos-arm.deb
+Size: 1045584
+MD5sum: 35b1eee3fbd01037def08988de0d5a7c
+SHA1: 53aeb49512b2790da985f5e608e2aa09e3e64b6d
+SHA256: fb36fa15000905114fabfa82dce938354d77dcb8f0be3d7180f42ce33617b274
+Section: Tweaks
+Author: lunotech11
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+Installed-Size: 2288
+Name: Legizmo
+SileoDepiction: https://myclassic.net/sileo.php?pid=1868
+
+Package: com.rpgfarm.a-bypass
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist
+Filename: ./debs/com.rpgfarm.a-bypass_1.3.4_iphoneos-arm.deb
+Size: 124736
+MD5sum: 480853b68fabeebc1676a232ea529cb5
+SHA1: 6a7c45945f32c729637a15d0da2a9a857fa66b57
+SHA256: 77ef21ad0df4864a078e93a488a1e3558dfd4e30bd397f7573597018298a3847
+Section: Tweaks
+Author: Baw Appie <pp121324@gmail.com>
+Installed-Size: 960
+Name: A-Bypass
+
 Package: com.unlimapps.gramplus
 Version: 1.8r-329
 Architecture: iphoneos-arm
@@ -71,7 +103,22 @@ Author: UnlimApps Inc. <support@unlimapps.com>
 Name: Instagram ++
 Tag: purpose::extension, ios7support::1, ios8support::1
 
-Package: gethub.a.cydown
+Package: com.yourepo.itweakios.carriercrack-global
+Version: 3.1.19
+Architecture: iphoneos-arm
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+Depends: com.yourepo.itweakios.ccpatch10
+Filename: ./debs/com_yourepo_itweakios_carriercrack_global_3_1_19_iphoneos_arm.deb
+Size: 5523616
+MD5sum: 2259b72840caf004ec5279c5815d40c8
+SHA1: 9b55bb34b3078253a17d5e67080f55d66b63d861
+SHA256: cf2281071f9f67406be187dc0576b5a6ed051914183ddbb8682f308e20993271
+Section: Tweaks
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack - Global
+Pre-Depends: firmware (>= 13)
+
+Package: net.myclassic.cydown
 Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: Julio
@@ -86,6 +133,79 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 SileoDepiction: https://myclassic.net/sileo.php?pid=1860
+
+Package: net.myclassic.powerselector11
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/net.myclassic.powerselector11_1.2.9_iphoneos-arm.deb
+Size: 207244
+MD5sum: 3c4c5924baccabd3e47cd3528730fffb
+SHA1: 45e9d3c0a83665343a06dc4e8b1371971fd26c87
+SHA256: 72adcd553902d158f9aeaeb4fedd3185d827ae947e9a8f92931df5fdcae3acee
+Section: Utilities
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 2156
+Name: PowerSelector (iOS 11 to 13)
+Pre-Depends: firmware (>= 11.0)
+SileoDepiction: https://myclassic.net/sileo.php?pid=1473
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: net.myclassic.snapbreakas
+Version: 1.7.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/net.myclassic.snapbreakas_1.7.1_iphoneos-arm.deb
+Size: 6465106
+MD5sum: 675679f647b8c7c1d4e94dc20f9be9f7
+SHA1: 15cba3291831f3b484e79731980ab6cb620a6b05
+SHA256: 3ec50d212a7ca276abac01a543fe0386b2871de992bf32a1136a81395ec594aa
+Section: Tweaks
+Author: Tweak
+Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
+Name: SnapBreak سناب بريك
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=639
+
+Package: org.mr.afsocial
+Version: 1.2k
+Architecture: iphoneos-arm
+Maintainer: classic
+Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
+Filename: ./debs/org.mr.afsocial_1.2k_iphoneos-arm.deb
+Size: 2676902
+MD5sum: 7680577f9c92344a9c22dd84c3246084
+SHA1: a702284397be528b46a6beb9d95f39cf504ac69d
+SHA256: 696cd2d08b5d0c4280ad4b7326cf78cdaea23a1af3dd84b94dd5d8d71082f88f
+Section: Tweaks
+Author: Azozz ALFiras
+Icon: https://afsocial.azozzalfiras.co/icon.png
+Installed-Size: 6500
+Name: AFSocial
+SileoDepiction: https://myclassic.net/sileo.php?pid=1861
+
+Package: org.mr.dleasy
+Version: 2.9.3.2k
+Architecture: iphoneos-arm
+Maintainer: Classic
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, org.mr.crux | com.creaturecoding.crux
+Filename: ./debs/org.mr.dleasy_2.9.3.2k_iphoneos-arm.deb
+Size: 1196458
+MD5sum: ed12c6a9db6a1647532ed487d92eb2b7
+SHA1: 90ba07618beaf5812aa2fa5d4791f44dd86e7c99
+SHA256: 4d6cb7e5596d593e15fc6fce82a7e8e9d8f8ad5fc09968a63813e618e0c71eac
+Section: Tweaks
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
+Installed-Size: 136
+Name: DLEasy
+SileoDepiction: https://myclassic.net/sileo.php?pid=1065
 
 Package: ru.rejail.cercube
 Version: 5.1.18k
@@ -129,3 +249,4 @@ Installed-Size: 6792
 Name: NewTerm (iOS 10 – 13)
 Support: https://hashbang.productions/support/
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+
