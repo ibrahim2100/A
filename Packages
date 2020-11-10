@@ -90,7 +90,7 @@ Author: lunotech11
 Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
 Installed-Size: 2288
 Name: Legizmo
-SileoDepiction:
+
 
 Package: com.rpgfarm.a-bypass
 Version: 1.3.4
@@ -156,6 +156,202 @@ Author: UnlimApps Inc. <support@unlimapps.com>
 Name: Instagram ++
 Tag: purpose::extension, ios7support::1, ios8support::1
 
+Package: org.Albrhi.adblockplus
+Version: 1.4.1-2
+Architecture: iphoneos-arm
+Maintainer: ReJail
+Filename: ./debs/com.yourepo.mohadu31.adblockplus_1.4.1-2_iphoneos-arm14.deb
+Size: 8342
+MD5sum: 9c7f4d1126dba1cbe6f5a30652cd44cc
+SHA1: 4dcbe154f6ff4df77fec5d624e742c050ab8a102
+SHA256: af3d8f435cbc3c665d1ee22234ce9467ed9eff1ae5864a4a9ffefcc6ba2058d0
+Section: iOS14
+Description: Adblock for ++ Tweaks
+Author: ReJail
+Name: AdBlock ++ Ios14 Support
+
+Package: org.Albrhi.appdatamanager
+Version: 1.6.0-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Filename: ./debs/com.yourepo.mohadu31.appdatamanager_1.6.0-2_iphoneos-arm14.deb
+Size: 3663834
+MD5sum: 76ad3527f0bcece6387b26848018fb01
+SHA1: 50149b0dede7423cd22a3fe7b24bfbb8a533ceaa
+SHA256: 97cea7520053e3d279ebc62fb1cce94a496e5d3bc6d7b27cb121af2ea9607e1d
+Section: iOS14
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Name: Apps Manager Ios14 Support
+
+Package: org.Albrhi.appsyncunifiednochimera
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: Linus Yang, Karen/あけみ
+Depends: firmware (>= 5.0), firmware (<= 14.2), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Filename: ./debs/com.yourepo.mohadu31.appsyncunifiednochimera_84.0_iphoneos-arm14.deb
+Size: 64472
+MD5sum: badd5c6921b56ee58ea9f550e4259baf
+SHA1: 32aea039e368bdffcb5847fbaaba680be76d94a1
+SHA256: d72a48b812a2c8b3e95395e12d1aa7cf444d2d5cc409785b9bcb588b60a35c8f
+Section: iOS14
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ
+Name: AppSync Unified (iOS 5 to iOS 14.2)
+
+Package: org.Albrhi.ayecon
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: aJBbo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.yourepo.mohadu31.ayecon_1.4.2_iphoneos-arm14.deb
+Size: 6702754
+MD5sum: 0155944d965bc23d7d9ec8faa158f915
+SHA1: 5bcd0d586ab00e8261bc2bebad2cd1c51337bfc9
+SHA256: b434c412df4ecd23b32b9a86d3bebb6d3ebd65c466bdda0a4323c1c5911dcdce
+Section: iOS14
+Description: ayecon Theme iOS8 To iOS11
+Author: aJBbo
+Name: Ayecon Ios14 Support
+
+Package: org.Albrhi.cr4shed
+Version: 4.1.3
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Depends: mobilesubstrate, com.yourepo.mohadu31.libmryipc, com.cokepokes.libnotifications (>= 0.2-2), cy+cpu.arm64 | cy+cpu.arm64e, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/com.yourepo.mohadu31.cr4shed_4.1.3_iphoneos-arm14.deb
+Size: 187656
+MD5sum: e68b2d2d8d41193717702607718cf1a2
+SHA1: 981ea19822c1519ca097e070b5193448f9f23d6b
+SHA256: 251239a4bf04a59e0e3645142271751ce5f943542c988713bd818efb22a1011d
+Section: iOS14
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Name: Cr4shed Ios14 Support
+
+Package: org.Albrhi.crackerxinew
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.yourepo.mohadu31.crackerxinew_1.1.16_iphoneos-arm14.deb
+Size: 9960950
+MD5sum: c1491e18da251d1727c3d9d3ca9074e0
+SHA1: 42993229601a7f4c4a0ee392c5361699d36dbee3
+SHA256: f115930da1838f35f644381fb4814d7bcaf6d36fb160209da6f0fc544060c096
+Section: iOS14
+Description: Decrypts iOS Apps
+Author: SarahH12099
+Name: CrackerXI+ New Ios14 Support
+
+Package: org.Albrhi.cylinderios10
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer:Reed Weichler
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.yourepo.mohadu31.cylinderios10_1.1_iphoneos-arm14.deb
+Size: 300228
+MD5sum: 5f120aa2d1d6d047ca49d2911d49f7c3
+SHA1: 17d4ed65c25b8152fa6a0ad2eaa79ef07fdedeff
+SHA256: 576b88c979fff97de95fc073e0d3a5ec2a483a9b851708f434ef5ff849a9c272
+Section: iOS14
+Description: Make your icons dance
+Author: Reed Weichler
+Name: Cylinder (iOS10 to 14.2)
+
+Package: org.Albrhi.filza64bit
+Version: 3.8.1-4
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debs/com.yourepo.mohadu31.filza64bit_3.8.1-4_iphoneos-arm14.deb
+Size: 8365756
+MD5sum: 69fb1e29bf3ec56df8c3defed8fb2a36
+SHA1: caf4f64435437f41d7b59eb981cf077375eaf3a1
+SHA256: 3a637a6c88005c8ea381cc7f9a575a94c1f04fefa1d3ce9b63b5d1f7da82d878
+Section: iOS14
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit Ios14 Support
+
+Package: org.Albrhi.fiveicondock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Minazuki
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.mohadu31.fiveicondock_0.0.1_iphoneos-arm14.deb
+Size: 3448
+MD5sum: fdf41423354e1af510057c7073ef6069
+SHA1: 7b73e8c2d9782a3e5be6100c0433de472e1efa17
+SHA256: df248bd89dedbd5946a2d29516d6cc469e7c09dbae59d1f1c7974be453f8554a
+Section: iOS14
+Description: An awesome MobileSubstrate tweak!
+Author: Minazuki
+Name: FiveIconDock Ios14 Support
+
+Package: org.Albrhi.flex3
+Version: 1:3~Beta97
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/com.yourepo.mohadu31.flex3_1%3a3~Beta97_iphoneos-arm14.deb
+Size: 14371416
+MD5sum: 1c4ae01ae70751c338aaa327e46b1fd6
+SHA1: 2933031b10c9887bca3fb236ce9554323cb8cba2
+SHA256: 23972e322a47d5d03cc2512678d076dbb5db8528e8bec192c8a3b84e9638757e
+Section: iOS14
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta Ios14 Support
+
+Package: org.Albrhi.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.mohadu31.localiapstore13_0.0.2_iphoneos-arm14.deb
+Size: 2706
+MD5sum: 257f0e3f26ec85828cfc8f7cf203391c
+SHA1: e5883372405fd352e2da03e4dea7210978886a14
+SHA256: 6d047fef4a38f5249c77f06b87b8662f1f90c31dc9c2ffc485a67cd97f777880
+Section: iOS14
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Author: pxcex
+Name: LocalIAPStore13 Ios14 Support
+
+Package: org.Albrhi.picaboodz
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Mohadu313
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.yourepo.mohadu31.picaboodz_1.0.3_iphoneos-arm14.deb
+Size: 5413016
+MD5sum: 95406a54dfbe90c2b7880c054c8d29ad
+SHA1: 4ce57055691e2eb3acb373f4be1626ae0dfeb5c5
+SHA256: 09d34fba103fcaf18ff64774f679483e91ed8e9add451ff3f9c5436f709e63ea
+Section: iOS14
+Description: the future of snapchat tweaks
+Author: iMokhles
+Name: DzSnap (iOS 10 to 14)
+
+Package: org.Albrhi.realcc
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Jake James
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yourepo.mohadu31.realcc_1.0.2_iphoneos-arm14.deb
+Size: 4050
+MD5sum: 247e713b87987f516dde83308bdb1ed2
+SHA1: 8b21fe49ce5a12b2aed8dfeca7222bbb2193535e
+SHA256: 4509dc38e36650abc802e1f70e3a69ea999c4ee301adf58234df671e279eb6d9
+Section: iOS14
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Author: Jake James
+Name: RealCC Ios14 Support
+
 Package: com.yourepo.itweakios.carriercrack-global
 Version: 3.1.19
 Architecture: iphoneos-arm
@@ -186,7 +382,6 @@ Icon: https://guofenpai.github.io/repo/icon/gfp.png
 Installed-Size: 130
 Name: AdBlock ++
 Priority: optional
-SileoDepiction:
 
 Package: org.Albrhi.cydown
 Version: 7.1.1
@@ -202,7 +397,7 @@ Section: Tweaks
 Author: julioverne <julioverne@me.com>
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
-SileoDepiction:
+
 
 Package: org.Albrhi.powerselector11
 Version: 1.2.9
@@ -222,7 +417,6 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Installed-Size: 2156
 Name: PowerSelector (iOS 11 to 13)
 Pre-Depends: firmware (>= 11.0)
-SileoDepiction:
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 
@@ -243,7 +437,7 @@ Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision
 Priority: optional
 Provides: com.matchstic.Extender-Installer
-SileoDepiction:
+
 
 Package: org.Albrhi.snapbreakas
 Version: 1.7.1
@@ -260,9 +454,9 @@ Author: Tweak
 Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
 Name: SnapBreak سناب بريك
 Priority: optional
-SileoDepiction:
 
-Package: org.Albrhi.twitterpp
+
+Package: Org.Albrhi.twitterpp
 Version: 1.2r-82
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -276,7 +470,6 @@ Section: Tweaks
 Author: UnlimApps Inc <support@unlimapps.com>
 Name: Twitter ++
 Priority: optional
-SileoDepiction:
 Tag: purpose::extension, role::enduser
 
 Package: org.mr.afsocial
@@ -294,7 +487,7 @@ Author: Azozz ALFiras
 Icon: https://afsocial.azozzalfiras.co/icon.png
 Installed-Size: 6500
 Name: AFSocial
-SileoDepiction:
+
 
 Package: org.mr.dleasy
 Version: 2.9.3.2k
@@ -311,7 +504,7 @@ Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
 Installed-Size: 136
 Name: DLEasy
-SileoDepiction:
+
 
 Package: ru.rejail.cercube
 Version: 5.1.18k
