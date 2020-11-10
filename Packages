@@ -50,7 +50,7 @@ Size: 4772402
 MD5sum: 0ce90140ef3ebb38c8fdecda21f9eb7c
 SHA1: 4e9bf12c53b8e2ac07c2d4e5d21219739fe9f2ba
 SHA256: 7b35413010d2afc0c3df2d36d51aca3115a88a53bb2122fa52558e89e3205195
-Section: Utilities
+Section: Tweaks
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
@@ -411,7 +411,7 @@ Size: 207244
 MD5sum: 3c4c5924baccabd3e47cd3528730fffb
 SHA1: 45e9d3c0a83665343a06dc4e8b1371971fd26c87
 SHA256: 72adcd553902d158f9aeaeb4fedd3185d827ae947e9a8f92931df5fdcae3acee
-Section: Utilities
+Section: Tweaks
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Installed-Size: 2156
@@ -431,7 +431,7 @@ Size: 14406300
 MD5sum: fe4311bd2f278f3faa95054637e1ed44
 SHA1: d1cd3d102599b5cb9b9da2dcb79a5061a2b0f9bf
 SHA256: 51a194d2fa1c254bc39db86088339e1a1e8d010a26fb0445bd4f09f08242aec2
-Section: System
+Section: Tweaks
 Author: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision
@@ -539,7 +539,7 @@ Size: 2183056
 MD5sum: 9de0a2d8c6b2cb9ddc5467cb8e51f54c
 SHA1: d35bebca9f64966f804b68203eb93d73e00decf6
 SHA256: 656946a2844b1fecfb4d3330f7463340d032724cb15313edfc1b3c3b898bfb97
-Section: Terminal Support
+Section: Tweaks
 Description: A powerful terminal app for iOS
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://repo.chariz.com/package/ws.hbang.newterm2/
