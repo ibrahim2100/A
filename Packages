@@ -509,7 +509,7 @@ Installed-Size: 136
 Name: DLEasy
 SileoDepiction: https://myclassic.net/sileo.php?pid=1065
 
-Package: org.Albrhi.colorbadges
+Package: ru.rejail.colorbadges
 Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: Albrhi
@@ -529,7 +529,7 @@ Installed-Size: 537
 Name: ColorBadges
 
 
-Package: org.Albrhi.cercube
+Package: ru.rejail.cercube
 Version: 5.1.18k
 Architecture: iphoneos-arm
 Maintainer: Albrhi
